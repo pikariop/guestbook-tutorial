@@ -1,0 +1,19 @@
+2016-08-16 23:04:30,374 [main] INFO  guestbook.env - 
+-=[guestbook started successfully using the development profile]=- 
+2016-08-16 23:04:30,921 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-08-16 23:04:31,304 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-08-16 23:04:32,267 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-08-16 23:04:32,296 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-08-16 23:04:32,389 [main] INFO  guestbook.core - #'guestbook.config/env started 
+2016-08-16 23:04:32,389 [main] INFO  guestbook.core - #'guestbook.handler/init-app started 
+2016-08-16 23:04:32,389 [main] INFO  guestbook.core - #'guestbook.core/http-server started 
+2016-08-16 23:04:32,389 [main] INFO  guestbook.core - #'guestbook.core/repl-server started 
+2016-08-16 23:30:15,218 [main] INFO  migratus.core - Starting migrations 
+2016-08-16 23:30:17,351 [main] INFO  migratus.database - creating migration table 'schema_migrations' 
+2016-08-16 23:30:17,494 [main] INFO  migratus.core - Running up for [20160816230149] 
+2016-08-16 23:30:17,503 [main] INFO  migratus.core - Up 20160816230149-add-users-table 
+2016-08-16 23:30:17,546 [main] INFO  migratus.core - Ending migrations 
+2016-08-16 23:35:51,394 [main] INFO  migratus.core - Starting migrations 
+2016-08-16 23:35:52,648 [main] INFO  migratus.core - Running up for [20160816233136] 
+2016-08-16 23:35:52,649 [main] INFO  migratus.core - Up 20160816233136-guestbook 
+2016-08-16 23:35:52,862 [main] INFO  migratus.core - Ending migrations 
