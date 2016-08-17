@@ -25,3 +25,5 @@ TAGS
 test_projects/*/target
 pom.xml
 *.db
+log/*
+
